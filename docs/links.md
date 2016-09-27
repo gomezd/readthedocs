@@ -1,3 +1,3 @@
 # Links Test
 
-This should be a link to [more blah](another_dimension#more-blah)
+This should be a link to [more blah](another-dimension#more-blah)
